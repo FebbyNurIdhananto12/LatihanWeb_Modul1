@@ -1,0 +1,16 @@
+tabel,h3{
+  font-size: 30px;
+  font-weight: bold;
+}
+table, th {
+    border: 1px solid;
+    padding: 5px;
+    background-color: rgb(255, 153, 0);
+    font-weight: bold;
+  }
+  tabel,td{
+    border: 1px solid;
+    padding: 5px;
+    background-color: rgb(170, 167, 166);
+    font-family: 'Times New Roman', Times, serif ;
+  }
